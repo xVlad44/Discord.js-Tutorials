@@ -1,3 +1,3 @@
 # Discord.js-Tutorials
 
-Emjoy !
+Enjoy !
